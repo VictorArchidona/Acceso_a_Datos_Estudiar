@@ -1,0 +1,11 @@
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.deps.json
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfoInputs.cache
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfo.cs
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\refint\RazorPages.Modelos.dll
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\ref\RazorPages.Modelos.dll
