@@ -39,3 +39,4 @@ C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages1\
 C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages1\bin\Debug\net6.0\RazorPages.Service.dll
 C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages1\bin\Debug\net6.0\RazorPages.Modelos.pdb
 C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages1\bin\Debug\net6.0\RazorPages.Service.pdb
+C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages1\obj\Debug\net6.0\RazorPages1.sourcelink.json

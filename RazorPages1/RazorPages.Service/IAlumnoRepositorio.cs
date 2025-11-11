@@ -5,5 +5,7 @@ namespace RazorPages.Service
     public interface IAlumnoRepositorio
     {
         IEnumerable<Alumno> GetAllAlumnos();
+
+        Alumno GetAlumnoPorId(int id);  
     }
 }

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace RazorPages.Service
 {
@@ -15,9 +16,9 @@ namespace RazorPages.Service
         {
             listaAlumnos = new List<Alumno>()
             {
-                new Alumno(){ Id=1, Nombre="Diego Blas", CursoID=Curso.H2, Email="diego@gmail.com", Foto="diego.webp"},
+                new Alumno(){ Id=1, Nombre="Diego Blas", CursoID=Curso.H2, Email="diego@gmail.com", Foto="diego.jpg"},
                 new Alumno(){ Id=2, Nombre="Javier Burillo", CursoID=Curso.H2, Email="javier@gmail.com", Foto="javier.png"},
-                new Alumno(){ Id=3, Nombre="Jon Fernandez", CursoID=Curso.H1, Email="jon@gmail.com", Foto="jon.webp"},
+                new Alumno(){ Id=3, Nombre="Jon Fernandez", CursoID=Curso.H1, Email="jon@gmail.com", Foto="jon.png"},
                 new Alumno(){ Id=4, Nombre="David Fron", CursoID=Curso.H1, Email="david@gmail.com", Foto="david.png"}
             };
         }
@@ -25,6 +26,11 @@ namespace RazorPages.Service
         public IEnumerable<Alumno> GetAllAlumnos()
         {
             return listaAlumnos;
+        }
+
+        public Alumno GetAlumnoPorId(int id)
+        {
+            return listaAlumnos.FirstOrDefault(a => a.Id == id);
         }
     }
 }
