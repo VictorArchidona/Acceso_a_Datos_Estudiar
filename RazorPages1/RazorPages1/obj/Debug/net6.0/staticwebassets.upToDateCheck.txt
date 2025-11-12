@@ -4,6 +4,7 @@ wwwroot\images\david.png
 wwwroot\images\diego.jpg
 wwwroot\images\javier.png
 wwwroot\images\jon.png
+wwwroot\images\noimage.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

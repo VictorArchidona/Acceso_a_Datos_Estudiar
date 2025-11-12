@@ -9,15 +9,21 @@ namespace RazorPages1.Pages.Alumnos
     {
         private readonly IAlumnoRepositorio AlumnoRepositorio;
 
-        public Alumno Alumno { get; set; }
+        public Alumno alumno { get; set; }
 
         public EditModel(IAlumnoRepositorio alumnoRepositorio)
         {
             this.AlumnoRepositorio = alumnoRepositorio;
         }
-        public void Post(int id)
+        public void OnGet(int id)
         {
-            Alumno = AlumnoRepositorio.GetAlumnoPorId(id);
+            alumno = AlumnoRepositorio.GetAlumnoPorId(id);
+        }
+
+        public IActionResult OnPost(Alumno alumno)
+        {
+            AlumnoRepositorio.Update(alumno);
+            return RedirectToPage("Index");
         }
     }
 }

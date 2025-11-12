@@ -23,14 +23,31 @@ namespace RazorPages.Service
             };
         }
 
+        //Se obtienen todos los alumnos
         public IEnumerable<Alumno> GetAllAlumnos()
         {
             return listaAlumnos;
         }
 
+        //Se obtiene el alumno que se haya introducido segun el id
         public Alumno GetAlumnoPorId(int id)
         {
             return listaAlumnos.FirstOrDefault(a => a.Id == id);
+        }
+
+        //se actualiza alumno por el alumnoActualizado que se pasa por parametro
+        public Alumno Update(Alumno alumnoActualizado)
+        {
+            Alumno alumno = listaAlumnos.FirstOrDefault(a => a.Id == alumnoActualizado.Id);
+
+            if (alumno != null)
+            {
+                alumno.Nombre = alumnoActualizado.Nombre;
+                alumno.Email = alumnoActualizado.Email;
+                alumno.CursoID = alumnoActualizado.CursoID;
+            }
+
+            return alumno;
         }
     }
 }
