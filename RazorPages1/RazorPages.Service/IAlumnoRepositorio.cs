@@ -9,5 +9,7 @@ namespace RazorPages.Service
         Alumno GetAlumnoPorId(int id);  
 
         Alumno Update(Alumno alumnoActualizado);
+
+        Alumno Add(Alumno alumnoNuevo);
     }
 }

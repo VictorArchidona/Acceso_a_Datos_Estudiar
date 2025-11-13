@@ -12,6 +12,8 @@ namespace RazorPages.Service
     {
         public List<Alumno> listaAlumnos;
 
+        public Alumno alumno { get; set; }
+
         public AlumnoRepositorio()
         {
             listaAlumnos = new List<Alumno>()
@@ -21,6 +23,18 @@ namespace RazorPages.Service
                 new Alumno(){ Id=3, Nombre="Jon Fernandez", CursoID=Curso.H1, Email="jon@gmail.com", Foto="jon.png"},
                 new Alumno(){ Id=4, Nombre="David Fron", CursoID=Curso.H1, Email="david@gmail.com", Foto="david.png"}
             };
+        }
+
+        public Alumno Add(Alumno alumnoNuevo)
+        {
+            //Asigna el siguiente Id disponible de la lista al alumno nuevo
+            alumnoNuevo.Id = listaAlumnos.Max(a => a.Id) + 1;
+
+            //Añade el alumno nuevo a la lista de alumnos
+            listaAlumnos.Add(alumnoNuevo);
+
+            //Devuelve el alumno nuevo
+            return alumnoNuevo;
         }
 
         //Se obtienen todos los alumnos
@@ -38,8 +52,10 @@ namespace RazorPages.Service
         //se actualiza alumno por el alumnoActualizado que se pasa por parametro
         public Alumno Update(Alumno alumnoActualizado)
         {
+            //Identifica el alumno en la lista por su Id
             Alumno alumno = listaAlumnos.FirstOrDefault(a => a.Id == alumnoActualizado.Id);
 
+            //Si el alumno existe, se actualizan sus propiedades
             if (alumno != null)
             {
                 alumno.Nombre = alumnoActualizado.Nombre;

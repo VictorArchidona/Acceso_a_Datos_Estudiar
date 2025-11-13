@@ -3,8 +3,9 @@
 @model RazorPages1.Pages.Alumnos.EditModel
 @{
     var photo = "~/images/" + (@Model.alumno.Foto ?? "noimage.jpg");
+    var titulo = Model.alumno.Id > 0 ? "Editar" : "Crear";
 }
-<h1>Edición datos de: @Model.alumno.Nombre</h1>
+<h1>@titulo datos de alumno</h1>
 
 <form method="Post" class="mt-3" enctype="multipart/form-data">
 
