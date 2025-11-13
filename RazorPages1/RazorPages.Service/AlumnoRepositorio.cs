@@ -45,9 +45,10 @@ namespace RazorPages.Service
                 alumno.Nombre = alumnoActualizado.Nombre;
                 alumno.Email = alumnoActualizado.Email;
                 alumno.CursoID = alumnoActualizado.CursoID;
+                alumno.Foto = alumnoActualizado.Foto;
             }
-
             return alumno;
+
         }
     }
 }

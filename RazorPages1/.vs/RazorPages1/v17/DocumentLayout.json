@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages.service\\alumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|solutionrelative:razorpages.service\\alumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages1\\pages\\alumnos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|solutionrelative:razorpages1\\pages\\alumnos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,30 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AlumnoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\AlumnoRepositorio.cs",
+              "RelativeDocumentMoniker": "RazorPages.Service\\AlumnoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\AlumnoRepositorio.cs",
+              "RelativeToolTip": "RazorPages.Service\\AlumnoRepositorio.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:01:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
               "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-12T18:35:42.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
               "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T18:41:01.758Z",
               "EditorCaption": ""
