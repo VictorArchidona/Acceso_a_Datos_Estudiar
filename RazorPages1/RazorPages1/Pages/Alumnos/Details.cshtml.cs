@@ -9,6 +9,7 @@ namespace RazorPages1.Pages.Alumnos
     {
         private readonly IAlumnoRepositorio AlumnoRepositorio;
 
+        [BindProperty]
         public Alumno Alumno { get; set; }
 
         public DetailsModel(IAlumnoRepositorio alumnoRepositorio)

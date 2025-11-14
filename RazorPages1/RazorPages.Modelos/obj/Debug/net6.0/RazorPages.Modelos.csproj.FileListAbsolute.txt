@@ -23,3 +23,4 @@ C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.
 C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.pdb
 C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\ref\RazorPages.Modelos.dll
 C:\Users\archi\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\RazorPages1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.csproj.AssemblyReference.cache

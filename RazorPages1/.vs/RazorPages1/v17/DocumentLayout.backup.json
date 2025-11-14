@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{43309AF3-E057-4572-822A-4FDB6A41EA3B}|RazorPages.Modelos\\RazorPages.Modelos.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages.modelos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43309AF3-E057-4572-822A-4FDB6A41EA3B}|RazorPages.Modelos\\RazorPages.Modelos.csproj|solutionrelative:razorpages.modelos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages1\\pages\\alumnos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|solutionrelative:razorpages1\\pages\\alumnos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages1\\pages\\alumnos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|solutionrelative:razorpages1\\pages\\alumnos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages.service\\alumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|solutionrelative:razorpages.service\\alumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages.service\\ialumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9868776-1304-421E-A09F-A861DEFF1AEC}|RazorPages.Service\\RazorPages.Service.csproj|solutionrelative:razorpages.service\\ialumnorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\Alumno.cs",
-              "RelativeDocumentMoniker": "RazorPages.Modelos\\Alumno.cs",
-              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\Alumno.cs",
-              "RelativeToolTip": "RazorPages.Modelos\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:47:50.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlumnoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\AlumnoRepositorio.cs",
-              "RelativeDocumentMoniker": "RazorPages.Service\\AlumnoRepositorio.cs",
-              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\AlumnoRepositorio.cs",
-              "RelativeToolTip": "RazorPages.Service\\AlumnoRepositorio.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:32:38.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAlumnoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\IAlumnoRepositorio.cs",
-              "RelativeDocumentMoniker": "RazorPages.Service\\IAlumnoRepositorio.cs",
-              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\IAlumnoRepositorio.cs",
-              "RelativeToolTip": "RazorPages.Service\\IAlumnoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:32:13.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
-              "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T11:42:19.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
-              "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:36:31.852Z",
-              "EditorCaption": ""
             }
           ]
         }

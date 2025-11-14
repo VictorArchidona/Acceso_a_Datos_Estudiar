@@ -66,5 +66,18 @@ namespace RazorPages.Service
             return alumno;
 
         }
+
+        public Alumno Delete(int id)
+        {
+            //Busco el alumno en la lista de Alumnos por su Id
+            Alumno alumnoBorrar = listaAlumnos.FirstOrDefault(a => a.Id == id);
+
+            //Si el alumno existe, se elimina de la lista
+            if (alumnoBorrar != null)
+            {
+                listaAlumnos.Remove(alumnoBorrar);
+            }
+            return alumnoBorrar;
+        }
     }
 }

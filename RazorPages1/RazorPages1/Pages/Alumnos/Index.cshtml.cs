@@ -8,7 +8,7 @@ namespace RazorPages1.Pages.Alumnos
     public class IndexModel : PageModel
     {
         private readonly IAlumnoRepositorio alumnosRepositorio;
-
+        [BindProperty]
         public IEnumerable<Alumno> Alumnos { get; set; }
 
         public IndexModel(IAlumnoRepositorio alumnoRepositorio)

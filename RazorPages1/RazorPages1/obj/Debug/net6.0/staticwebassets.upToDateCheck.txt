@@ -1,6 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\9ouv72n0pty81.jpg
 wwwroot\images\CertificadoNotas.jpeg
 wwwroot\images\david.png
 wwwroot\images\diego.jpg
