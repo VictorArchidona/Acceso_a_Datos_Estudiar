@@ -13,7 +13,7 @@ namespace RazorPages.Modelos
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Obligatorio completar el nombre")]
-        [MinLength(3, ErrorMessage = "El nombre debe tener al menos 3 caracteres")]
+        //[MinLength(3, ErrorMessage = "El nombre debe tener al menos 3 caracteres")]
         public string Nombre { get; set; }
 
         [Required(ErrorMessage = "Obligatorio completar el email")]

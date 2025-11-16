@@ -35,8 +35,11 @@ namespace RazorPages1.Pages.Alumnos
             return Page();
         }
 
-        public IActionResult OnPost(Alumno alumno)
+        public IActionResult OnPost()
         {
+
+
+            ModelState.Remove("Photo");
             //Si los cambios son correctos
             if (ModelState.IsValid)
             {
@@ -67,8 +70,6 @@ namespace RazorPages1.Pages.Alumnos
                     AlumnoRepositorio.Add(alumno);
                 }
 
-                //Actualiza el alumno
-                AlumnoRepositorio.Update(alumno);
                 return RedirectToPage("Index");
             }
             //Si los cmabios no son correctos te redirige a la misma pagina con errores

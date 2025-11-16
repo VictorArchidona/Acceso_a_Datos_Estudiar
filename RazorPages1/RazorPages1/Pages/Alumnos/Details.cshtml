@@ -2,6 +2,7 @@
 @model RazorPages1.Pages.Alumnos.DetailsModel
 @{
     var photo = "~/images/" + (@Model.Alumno.Foto ?? "noimage.jpg");
+    var Alumno = Model.Alumno;
 }
 
 
@@ -23,9 +24,9 @@
 
     <div class="card-footer text-center">
 
-        <a asp-page="Index" class="btn btn-primary p-1">Back</a>
-        <a asp-page="#" class="btn btn-warning p-1">Edit</a>
-        <a asp-page="#" class="btn btn-danger p-1">Delete</a>
+        <a asp-page="/Alumnos/Details" asp-route-ID="@Alumno.Id" class="btn btn-primary p-1">View</a>
+        <a asp-page="/Alumnos/Edit" asp-route-ID="@Alumno.Id" class="btn btn-warning p-1">Edit</a>
+        <a asp-page="/Alumnos/Delete" asp-route-ID="@Alumno.Id" class="btn btn-danger p-1">Delete</a>
 
     </div>
 

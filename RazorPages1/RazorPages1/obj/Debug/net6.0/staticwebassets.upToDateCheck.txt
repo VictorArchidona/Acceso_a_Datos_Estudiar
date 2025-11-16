@@ -1,11 +1,9 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\9ouv72n0pty81.jpg
-wwwroot\images\CertificadoNotas.jpeg
 wwwroot\images\david.png
-wwwroot\images\diego.jpg
-wwwroot\images\Imagen de perfil.png
+wwwroot\images\diego.png
 wwwroot\images\javier.png
+wwwroot\images\jon.png
 wwwroot\images\noimage.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

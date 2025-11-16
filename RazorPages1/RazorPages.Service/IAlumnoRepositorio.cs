@@ -11,5 +11,7 @@ namespace RazorPages.Service
         Alumno Update(Alumno alumnoActualizado);
 
         Alumno Add(Alumno alumnoNuevo);
+
+        Alumno Delete(int id);
     }
 }

@@ -1,0 +1,12 @@
+﻿@page "{id}"
+@model RazorPages1.Pages.Alumnos.DeleteModel
+@{
+}
+<h1>Confirmacion de borrado</h1>
+<div class="alert alert-danger">
+   <h4>¿Esta seguro que desea borrar este Alumno? -@Model.Alumno.Nombre-</h4>
+    <form method="post">
+        <button type="submit" class="btn-primary bt-danger">Si</button>
+        <a asp-page="/Alumnos/Index" class="btn btn-primary">No</a>
+    </form>
+</div>

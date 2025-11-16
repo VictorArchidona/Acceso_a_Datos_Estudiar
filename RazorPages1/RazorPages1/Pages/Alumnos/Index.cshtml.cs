@@ -7,18 +7,18 @@ namespace RazorPages1.Pages.Alumnos
 {
     public class IndexModel : PageModel
     {
-        private readonly IAlumnoRepositorio alumnosRepositorio;
+        private readonly IAlumnoRepositorio alumnoRepositorio;
 
         public IEnumerable<Alumno> Alumnos { get; set; }
 
         public IndexModel(IAlumnoRepositorio alumnoRepositorio)
         {
-            this.alumnosRepositorio = alumnoRepositorio;
+            this.alumnoRepositorio = alumnoRepositorio;
         }
 
         public void OnGet()
         {
-            Alumnos = alumnosRepositorio.GetAllAlumnos();
+            Alumnos = alumnoRepositorio.GetAllAlumnos();
         }
     }
 }
