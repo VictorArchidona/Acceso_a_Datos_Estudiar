@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages1\\components\\alumnoscursoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|solutionrelative:razorpages1\\components\\alumnoscursoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|c:\\users\\archi\\documents\\github\\acceso_a_datos_estudiar\\razorpages1\\razorpages1\\pages\\alumnos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{605C57C0-CC2F-4613-9B19-6DE3C4389759}|RazorPages1\\RazorPages1.csproj|solutionrelative:razorpages1\\pages\\alumnos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AlumnosCursoViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Components\\AlumnosCursoViewComponent.cs",
+              "RelativeDocumentMoniker": "RazorPages1\\Components\\AlumnosCursoViewComponent.cs",
+              "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Components\\AlumnosCursoViewComponent.cs",
+              "RelativeToolTip": "RazorPages1\\Components\\AlumnosCursoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:31:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Delete.cshtml.cs",
               "ToolTip": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Delete.cshtml.cs",
               "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T16:48:28.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages1\\Pages\\Alumnos\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorPages1\\Pages\\Alumnos\\Delete.cshtml",
@@ -43,12 +64,7 @@
               "RelativeToolTip": "RazorPages1\\Pages\\Alumnos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T16:48:18.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-11-13T16:48:18.882Z"
             }
           ]
         }

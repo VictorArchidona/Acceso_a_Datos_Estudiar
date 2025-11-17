@@ -4403,23 +4403,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {},
+    "C:\\Users\\archi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\RazorPages.Service.csproj",
+      "projectUniqueName": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\RazorPages.Service.csproj",
       "projectName": "RazorPages.Service",
-      "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\RazorPages.Service.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\obj\\",
+      "projectPath": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\RazorPages.Service.csproj",
+      "packagesPath": "C:\\Users\\archi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\archi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4428,14 +4428,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\RazorPages.Modelos.csproj": {
-              "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\RazorPages.Modelos.csproj"
+            "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\RazorPages.Modelos.csproj": {
+              "projectPath": "C:\\Users\\archi\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages1\\RazorPages.Modelos\\RazorPages.Modelos.csproj"
             }
           }
         }
@@ -4471,7 +4472,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
