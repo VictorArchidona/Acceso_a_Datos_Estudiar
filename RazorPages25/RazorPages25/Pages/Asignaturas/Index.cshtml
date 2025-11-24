@@ -1,0 +1,23 @@
+﻿@page
+@model RazorPages25.Pages.Asignaturas.IndexModel
+@{
+	
+}
+<form method="get">
+	<select asp-for="profesor" onchange="submit()">
+		<option value="">Selecciona un profesor </option>
+		@foreach (var profe in @Model.Profesores){
+			<option value="@profe.ID" label="@profe.nomProfesor"></option>
+		}
+	</select>
+
+</form>
+
+<div class="card-group">
+	@foreach (var asignatura in @Model.Asignaturas){
+		<div >
+			<h3>@asignatura.codAsignatura .- @asignatura.nomAsignatura</h3>
+		</div>
+	}
+
+</div>

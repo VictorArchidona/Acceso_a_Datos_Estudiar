@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages25", "RazorPages25\RazorPages25.csproj", "{C63124EE-C179-4466-A462-6EB6D4C64928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages.Modelos", "RazorPages.Modelos\RazorPages.Modelos.csproj", "{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages.Services", "RazorPages.Services\RazorPages.Services.csproj", "{69585568-8126-4062-85AB-50F65EC916BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63124EE-C179-4466-A462-6EB6D4C64928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63124EE-C179-4466-A462-6EB6D4C64928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63124EE-C179-4466-A462-6EB6D4C64928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63124EE-C179-4466-A462-6EB6D4C64928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69585568-8126-4062-85AB-50F65EC916BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69585568-8126-4062-85AB-50F65EC916BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69585568-8126-4062-85AB-50F65EC916BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69585568-8126-4062-85AB-50F65EC916BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

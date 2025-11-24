@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58525463-864B-4933-9E60-01859183B666}|ArchidonaGil.Service\\ArchidonaGil.Services.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil.service\\examendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58525463-864B-4933-9E60-01859183B666}|ArchidonaGil.Service\\ArchidonaGil.Services.csproj|solutionrelative:archidonagil.service\\examendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|solutionrelative:archidonagil.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Program.cs",
+              "RelativeDocumentMoniker": "ArchidonaGil\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Program.cs",
+              "RelativeToolTip": "ArchidonaGil\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:06:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Class1.cs",
+              "RelativeDocumentMoniker": "ArchidonaGil.Modelos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Class1.cs",
+              "RelativeToolTip": "ArchidonaGil.Modelos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:06:15.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamenDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Service\\ExamenDbContext.cs",
+              "RelativeDocumentMoniker": "ArchidonaGil.Service\\ExamenDbContext.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Service\\ExamenDbContext.cs",
+              "RelativeToolTip": "ArchidonaGil.Service\\ExamenDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:05:54.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
