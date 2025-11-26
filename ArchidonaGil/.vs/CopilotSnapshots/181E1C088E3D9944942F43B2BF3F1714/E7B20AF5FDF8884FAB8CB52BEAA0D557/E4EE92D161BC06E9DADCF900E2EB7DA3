@@ -1,0 +1,64 @@
+﻿@page
+@model ArchidonaGil.Pages.Categorias.IndexModel
+
+<h3>Categorias</h3>
+
+<h1>Categorías</h1>
+
+<div class="row">
+	<div class="col-md-8">
+		<!-- SELECT con todas las categorías -->
+		<div class="mb-3">
+			<label for="categoriaSelect" class="form-label">Seleccione una categoría:</label>
+			<select id="categoriaSelect" class="form-select">
+				<option value="">-- Seleccione una categoría --</option>
+				@foreach (var categoria in Model.Categorias)
+				{
+					<option value="@categoria.Id">@categoria.Nombre</option>
+				}
+			</select>
+		</div>
+
+		<!-- Contenedor donde se cargarán los productos del ViewComponent -->
+		<div id="productosContainer" class="mt-3">
+			<!-- Aquí aparecerán los productos cuando selecciones una categoría -->
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<!-- Contenedor para el total de ventas -->
+		<div id="totalVentasContainer" class="mt-5">
+			<!-- Aquí se cargará el ViewComponent de TotalVentas -->
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		document.getElementById('categoriaSelect').addEventListener('change', function() {
+			var categoriaId = this.value;
+
+			if (categoriaId === '') {
+				document.getElementById('productosContainer').innerHTML = '';
+				document.getElementById('totalVentasContainer').innerHTML = '';
+				return;
+			}
+
+			// Cargar productos (ViewComponent ProductoCategoria)
+			fetch('/Categorias/Index?handler=ProductosCategoria&categoriaId=' + categoriaId)
+				.then(response => response.text())
+				.then(html => {
+					document.getElementById('productosContainer').innerHTML = html;
+				})
+				.catch(error => console.error('Error:', error));
+
+			// Cargar total ventas (ViewComponent TotalVentasCategoria)
+			fetch('/Categorias/Index?handler=TotalVentasCategoria&categoriaId=' + categoriaId)
+				.then(response => response.text())
+				.then(html => {
+					document.getElementById('totalVentasContainer').innerHTML = html;
+				})
+				.catch(error => console.error('Error:', error));
+		});
+	</script>
+}

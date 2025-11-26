@@ -1,0 +1,27 @@
+﻿using ArchidonaGil.Modelos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ArchidonaGil.Services
+{
+    public class VentasRepositorioDB
+    {
+        public ExamenDbContext Context { get; set; }
+
+        public VentasRepositorioDB(ExamenDbContext context)
+        {
+            Context = context;
+        }
+
+        // TODO: Descomentar cuando exista la tabla Ventas en la base de datos
+        /*
+        public List<Ventas> GetVentas()
+        {
+            return Context.Ventas.ToList();
+        }
+        */
+    }
+}

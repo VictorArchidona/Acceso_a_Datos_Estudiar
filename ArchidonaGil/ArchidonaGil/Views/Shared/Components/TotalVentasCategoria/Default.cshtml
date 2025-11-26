@@ -1,0 +1,12 @@
+<div class="card">
+	<div class="card-header bg-primary text-white">
+		<h5>Información de Ventas</h5>
+	</div>
+	<div class="card-body">
+		<h6 class="card-title">@ViewData["CategoriaNombre"]</h6>
+		<p class="card-text">
+			<strong>Importe Total Vendido:</strong><br/>
+			<span class="fs-4 text-success">@((decimal)ViewData["TotalVentas"]).ToString("C")</span>
+		</p>
+	</div>
+</div>

@@ -1,0 +1,16 @@
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\bin\Debug\net6.0\ArchidonaGil.Services.deps.json
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\bin\Debug\net6.0\ArchidonaGil.Services.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\bin\Debug\net6.0\ArchidonaGil.Services.pdb
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\bin\Debug\net6.0\ArchidonaGil.Modelos.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\bin\Debug\net6.0\ArchidonaGil.Modelos.pdb
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.AssemblyInfo.cs
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.sourcelink.json
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\Archidon.BA3FDE2E.Up2Date
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\refint\ArchidonaGil.Services.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ArchidonaGil.Services.pdb
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Service\obj\Debug\net6.0\ref\ArchidonaGil.Services.dll

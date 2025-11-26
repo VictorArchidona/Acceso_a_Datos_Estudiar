@@ -1,0 +1,72 @@
+﻿@page
+@model ArchidonaGil.Pages.Ventas.IndexModel
+
+<h1>Ventas</h1>
+<br>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Mensaje"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <form method="post">
+            <div class="mb-3">
+                <label class="form-label">Seleccione una Categoría:</label>
+                <select class="form-select" asp-for="CategoriaId" onchange="this.form.submit()">
+                    <option value="">-- Elige una categoría --</option>
+                    @foreach (var categoria in Model.Categorias)
+                    {
+                        <option value="@categoria.Id">@categoria.Nombre</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoriaId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Productos:</label>
+                <select class="form-select" asp-for="ProductoId">
+                    <option value="">-- Elige un producto --</option>
+                    @foreach (var producto in Model.Productos)
+                    {
+                        <option value="@producto.Id">@producto.Nombre</option>
+                    }
+                </select>
+                <span asp-validation-for="ProductoId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" asp-for="Cantidad">Cantidad:</label>
+                <input type="number" class="form-control" asp-for="Cantidad" min="1" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" asp-for="Cliente">Nombre del Cliente:</label>
+                <input type="text" class="form-control" asp-for="Cliente" />
+                <span asp-validation-for="Cliente" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" asp-for="FechaVenta">Fecha:</label>
+                <input type="date" class="form-control" asp-for="FechaVenta" />
+                <span asp-validation-for="FechaVenta" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Insertar</button>
+        </form>
+    </div>
+    <div class="col-md-4">
+        <!-- Aquí puedes añadir información adicional -->
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<ArchidonaGil.Modelos.Categorias>
+
+
+<select asp-for="CategoriaId" asp-items="@(new SelectList(Model, "CategoriaId", "Nombre"))" class="form-control">
+	<option value="">-- Seleccione una categoría --</option>
+	@foreach(var categoria in Model)
+	{
+		<option value="@categoria.CategoriaId">@categoria.Nombre</option>
+	}
+)
+</select>

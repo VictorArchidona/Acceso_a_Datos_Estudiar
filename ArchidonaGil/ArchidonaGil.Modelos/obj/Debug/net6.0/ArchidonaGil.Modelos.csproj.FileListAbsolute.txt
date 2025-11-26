@@ -1,0 +1,13 @@
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\bin\Debug\net6.0\ArchidonaGil.Modelos.deps.json
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\bin\Debug\net6.0\ArchidonaGil.Modelos.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\bin\Debug\net6.0\ArchidonaGil.Modelos.pdb
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.AssemblyInfo.cs
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.sourcelink.json
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\refint\ArchidonaGil.Modelos.dll
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ArchidonaGil.Modelos.pdb
+C:\Users\Victor\Documents\GitHub\Acceso_a_Datos_Estudiar\ArchidonaGil\ArchidonaGil.Modelos\obj\Debug\net6.0\ref\ArchidonaGil.Modelos.dll

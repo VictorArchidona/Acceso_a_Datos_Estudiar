@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\calificaciones\\insertar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}|RazorPages.Modelos\\RazorPages.Modelos.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages.modelos\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}|RazorPages.Modelos\\RazorPages.Modelos.csproj|solutionrelative:razorpages.modelos\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\calificaciones\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,28 +50,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Program.cs",
-              "RelativeDocumentMoniker": "RazorPages25\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Program.cs",
-              "RelativeToolTip": "RazorPages25\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:32:18.859Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages25\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages25\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T11:48:33.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calificacion.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Modelos\\Calificacion.cs",
-              "RelativeDocumentMoniker": "RazorPages.Modelos\\Calificacion.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Modelos\\Calificacion.cs",
-              "RelativeToolTip": "RazorPages.Modelos\\Calificacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:34:42.124Z",
+              "DocumentIndex": 2,
+              "Title": "Insertar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
+              "RelativeDocumentMoniker": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
+              "RelativeToolTip": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:59:50.319Z",
               "EditorCaption": ""
             },
             {
@@ -86,22 +82,10 @@
               "RelativeDocumentMoniker": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
               "RelativeToolTip": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T12:17:18.953Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Insertar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
-              "RelativeDocumentMoniker": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
-              "RelativeToolTip": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAwIEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T12:04:37.709Z"
             }
           ]
         }

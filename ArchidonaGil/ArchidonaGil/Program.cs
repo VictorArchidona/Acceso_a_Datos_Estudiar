@@ -13,6 +13,11 @@ IConfiguration configuration = new ConfigurationBuilder()
 // Add services to the container.
 builder.Services.AddDbContext<ExamenDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("ExamenDBConnection")));
 
+// Inyeccion de dependencias
+builder.Services.AddScoped<CategoriaRepositorioDB>();
+builder.Services.AddScoped<VentasRepositorioDB>();
+builder.Services.AddScoped<ProductoRepositorioDB>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

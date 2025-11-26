@@ -1,0 +1,15 @@
+﻿using ArchidonaGil.Modelos;
+using Microsoft.EntityFrameworkCore;
+
+namespace ArchidonaGil.Services
+{
+    public class ExamenDbContext : DbContext
+    {
+        public ExamenDbContext(DbContextOptions<ExamenDbContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Categorias> Categorias { get; set; }
+        public DbSet<Productos> Productos { get; set; }
+    }
+}

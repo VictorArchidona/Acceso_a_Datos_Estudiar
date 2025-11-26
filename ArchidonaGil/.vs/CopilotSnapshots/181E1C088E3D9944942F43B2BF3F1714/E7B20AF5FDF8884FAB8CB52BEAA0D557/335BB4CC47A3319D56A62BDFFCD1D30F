@@ -1,0 +1,26 @@
+﻿using ArchidonaGil.Modelos;
+using ArchidonaGil.Services;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Examen.Components
+{
+    public class ProductoCategoriaViewComponent : ViewComponent
+    {
+        public CategoriaRepositorioDB categoriaRepositorio { get;}
+
+        [BindProperty(SupportsGet = true)]
+        public Categorias categoriaId { get; set; }
+
+        public ProductoCategoriaViewComponent(CategoriaRepositorioDB categoriaRepositorioDB)
+        {
+            categoriaRepositorio = categoriaRepositorioDB;
+        }
+
+        public IViewComponentResult Invoke()
+        {
+            var categorias = categoriaRepositorio.GetCategorias();
+
+            return View(categorias);
+        }
+    }
+}
