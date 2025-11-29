@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\pages\\categorias\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\pages\\categorias\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\pages\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\pages\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\components\\totalventascategoriaviewcomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\components\\totalventascategoriaviewcomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\pages\\ventas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\pages\\ventas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\pages\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\pages\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58525463-864B-4933-9E60-01859183B666}|ArchidonaGil.Service\\ArchidonaGil.Services.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil.service\\ventasrepositoriodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58525463-864B-4933-9E60-01859183B666}|ArchidonaGil.Service\\ArchidonaGil.Services.csproj|solutionrelative:archidonagil.service\\ventasrepositoriodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil.modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|solutionrelative:archidonagil.modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil.modelos\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C19C477-06A4-41F9-9B55-CEC6ADF18BA7}|ArchidonaGil.Modelos\\ArchidonaGil.Modelos.csproj|solutionrelative:archidonagil.modelos\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\archidonagil\\archidonagil\\views\\shared\\components\\productocategoria\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7CF9075-0832-4EA8-A65F-0E301DC5B5B3}|ArchidonaGil\\ArchidonaGil.csproj|solutionrelative:archidonagil\\views\\shared\\components\\productocategoria\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,124 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Views\\Shared\\Components\\ProductoCategoria\\Default.cshtml",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Views\\Shared\\Components\\ProductoCategoria\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Views\\Shared\\Components\\ProductoCategoria\\Default.cshtml",
-              "RelativeToolTip": "ArchidonaGil\\Views\\Shared\\Components\\ProductoCategoria\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T12:03:54.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Program.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Program.cs",
-              "RelativeToolTip": "ArchidonaGil\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:03:53.335Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Categorias\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Pages\\Categorias\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Categorias\\Index.cshtml.cs",
-              "RelativeToolTip": "ArchidonaGil\\Pages\\Categorias\\Index.cshtml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:03:11.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Categorias\\Index.cshtml",
               "RelativeDocumentMoniker": "ArchidonaGil\\Pages\\Categorias\\Index.cshtml",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Categorias\\Index.cshtml",
               "RelativeToolTip": "ArchidonaGil\\Pages\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T12:02:32.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TotalVentasCategoriaViewComponent .cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Components\\TotalVentasCategoriaViewComponent .cs",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Components\\TotalVentasCategoriaViewComponent .cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Components\\TotalVentasCategoriaViewComponent .cs",
-              "RelativeToolTip": "ArchidonaGil\\Components\\TotalVentasCategoriaViewComponent .cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:01:19.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VentasRepositorioDB.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Service\\VentasRepositorioDB.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil.Service\\VentasRepositorioDB.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Service\\VentasRepositorioDB.cs",
-              "RelativeToolTip": "ArchidonaGil.Service\\VentasRepositorioDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:52:55.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Productos.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil.Modelos\\Productos.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Productos.cs",
-              "RelativeToolTip": "ArchidonaGil.Modelos\\Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:41:36.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ventas.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Ventas.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil.Modelos\\Ventas.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil.Modelos\\Ventas.cs",
-              "RelativeToolTip": "ArchidonaGil.Modelos\\Ventas.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:41:20.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Ventas\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Pages\\Ventas\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Ventas\\Index.cshtml.cs",
-              "RelativeToolTip": "ArchidonaGil\\Pages\\Ventas\\Index.cshtml.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAUwG8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:22:25.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Ventas\\Index.cshtml",
-              "RelativeDocumentMoniker": "ArchidonaGil\\Pages\\Ventas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ArchidonaGil\\ArchidonaGil\\Pages\\Ventas\\Index.cshtml",
-              "RelativeToolTip": "ArchidonaGil\\Pages\\Ventas\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T10:12:57.633Z"
+              "WhenOpened": "2025-11-28T09:02:41.075Z",
+              "EditorCaption": ""
             }
           ]
         }
