@@ -26,32 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,7 +36,7 @@
               "RelativeDocumentMoniker": "ColegioApi2\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "ColegioApi2\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T07:53:13.237Z",
               "EditorCaption": ""
@@ -75,8 +51,7 @@
               "RelativeToolTip": "ColegioApi2\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:37:36.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T07:37:36.922Z"
             },
             {
               "$type": "Document",
@@ -88,8 +63,7 @@
               "RelativeToolTip": "ColegioApi2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-05T07:33:08.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T07:33:08.461Z"
             },
             {
               "$type": "Document",
@@ -101,8 +75,7 @@
               "RelativeToolTip": "ColegioApi2\\Models\\Alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:25:02.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T07:25:02.681Z"
             }
           ]
         }

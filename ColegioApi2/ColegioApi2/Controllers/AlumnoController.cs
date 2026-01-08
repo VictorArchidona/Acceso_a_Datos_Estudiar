@@ -1,6 +1,7 @@
 ﻿using ColegioApi2.Data;
 using ColegioApi2.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -19,22 +20,39 @@ namespace ColegioApi2.Controllers
   
         // GET: api/<AlumnoController>
         [HttpGet]
-        public ActionResult<IEnumerable<Alumno>> Get()
+        public async Task<ActionResult<IEnumerable<Alumno>>> Get()
         {
-            return Context.Alumnos.ToList();
+            return await Context.Alumnos.ToListAsync();
         }
 
         // GET api/<AlumnoController>/5
         [HttpGet("{id}")]
-        public ActionResult<Alumno> Get(int id)
+        public async Task<ActionResult<Alumno>> Get(int id)
         {
-            return Context.Alumnos.Find(id);
+            return await Context.Alumnos.FindAsync(id);
+        }
+
+        [HttpGet("busqueda/{busca}")]
+        public async Task<IEnumerable<Alumno>> Get(string busca)
+        {
+            return await Context.Alumnos.Where(a => a.Nombre.Contains(busca)).ToListAsync();
         }
 
         // POST api/<AlumnoController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async  Task<ActionResult<Alumno>> Post([FromBody] Alumno alumno)
         {
+            if(alumno.ID != 0)
+            {
+                var alumnoActualizado = Context.Alumnos.Attach(alumno);
+                alumnoActualizado.State = EntityState.Modified;
+            }
+            else
+            {
+                Context.Alumnos.Add(alumno);
+            }
+            await Context.SaveChangesAsync();
+            return Ok();
         }
 
         // PUT api/<AlumnoController>/5
@@ -45,8 +63,11 @@ namespace ColegioApi2.Controllers
 
         // DELETE api/<AlumnoController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+
+        public async Task<ActionResult> Delete(int id)
         {
+            await Context.Database.ExecuteSqlRawAsync("DELETE FROM Alumnos WHERE Id = {0}", id);
+            return Ok(new { mensaje = $"Alumno {id} borrado" });
         }
     }
 }
