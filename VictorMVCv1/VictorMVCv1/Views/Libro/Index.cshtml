@@ -1,0 +1,79 @@
+﻿@model IEnumerable<VictorMVCv1.Models.libro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nom_libro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ano)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.portada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nom_archivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pelicula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.comentario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.indiceSerie)
+            </th>
+            <th>
+				@Html.DisplayNameFor(model => model.libroAutores)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nom_libro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ano)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.portada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nom_archivo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pelicula)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.comentario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.indiceSerie)
+            </td>
+            <td>
+                @if (item.libroAutores != null)
+                {
+                    @string.Join(", ", item.libroAutores.Select(la => la.autor?.nom_autor))
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

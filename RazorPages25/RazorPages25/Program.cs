@@ -14,6 +14,12 @@ builder.Services.AddTransient<CalificacionRepositorio>();
 
 // Inyección de HttpClient para IAService
 builder.Services.AddHttpClient<IAService>();
+builder.Services.AddSingleton <IAService>(sp =>
+{
+    var httpClient = sp.GetRequiredService<HttpClient>();
+    var apiKey = builder.Configuration["OpenAI:ApiKey"];
+    return new IAService(httpClient, apiKey);
+});
 
 IConfiguration configuration = new ConfigurationBuilder()
                                     .AddJsonFile("appsettings.json")

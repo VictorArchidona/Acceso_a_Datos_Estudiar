@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\consultasia\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\consultasia\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69585568-8126-4062-85AB-50F65EC916BB}|RazorPages.Services\\RazorPages.Services.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages.services\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69585568-8126-4062-85AB-50F65EC916BB}|RazorPages.Services\\RazorPages.Services.csproj|solutionrelative:razorpages.services\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\consultasia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\consultasia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}|RazorPages.Modelos\\RazorPages.Modelos.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages.modelos\\tabladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D9BF70-5B23-4EDE-9E08-0F779A0762EA}|RazorPages.Modelos\\RazorPages.Modelos.csproj|solutionrelative:razorpages.modelos\\tabladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\calificaciones\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\calificaciones\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\calificaciones\\insertar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\calificaciones\\insertar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\razorpages25\\razorpages25\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63124EE-C179-4466-A462-6EB6D4C64928}|RazorPages25\\RazorPages25.csproj|solutionrelative:razorpages25\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,29 +74,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TablaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Modelos\\TablaDto.cs",
+              "RelativeDocumentMoniker": "RazorPages.Modelos\\TablaDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Modelos\\TablaDto.cs",
+              "RelativeToolTip": "RazorPages.Modelos\\TablaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:39:33.407Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\ConsultasIA\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages25\\Pages\\ConsultasIA\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\ConsultasIA\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages25\\Pages\\ConsultasIA\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:37:43.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\ConsultasIA\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages25\\Pages\\ConsultasIA\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\ConsultasIA\\Index.cshtml",
+              "RelativeToolTip": "RazorPages25\\Pages\\ConsultasIA\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T09:37:09.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Services\\IAService.cs",
+              "RelativeDocumentMoniker": "RazorPages.Services\\IAService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages.Services\\IAService.cs",
+              "RelativeToolTip": "RazorPages.Services\\IAService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:18:56.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPages25\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Program.cs",
+              "RelativeToolTip": "RazorPages25\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:16:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPages25\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\appsettings.json",
+              "RelativeToolTip": "RazorPages25\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T08:15:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages25\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages25\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T11:48:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Insertar.cshtml",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
               "RelativeDocumentMoniker": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
               "RelativeToolTip": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwFwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T10:59:50.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:59:50.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Insertar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\RazorPages25\\RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
               "RelativeToolTip": "RazorPages25\\Pages\\Calificaciones\\Insertar.cshtml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA2wCMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:17:18.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:17:18.953Z"
             }
           ]
         }

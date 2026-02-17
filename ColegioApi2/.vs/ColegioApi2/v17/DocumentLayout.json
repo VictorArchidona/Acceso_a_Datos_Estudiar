@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\colegioapi2\\colegioapi2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|solutionrelative:colegioapi2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\colegioapi2\\colegioapi2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|solutionrelative:colegioapi2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\colegioapi2\\colegioapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|solutionrelative:colegioapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|c:\\users\\victor\\documents\\github\\acceso_a_datos_estudiar\\colegioapi2\\colegioapi2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C4DF890-2C5F-490D-90CA-77C3FB7AAB6E}|ColegioApi2\\ColegioApi2.csproj|solutionrelative:colegioapi2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AlumnoController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Controllers\\AlumnoController.cs",
               "RelativeDocumentMoniker": "ColegioApi2\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "ColegioApi2\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwD8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:53:13.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T07:53:13.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Program.cs",
               "RelativeDocumentMoniker": "ColegioApi2\\Program.cs",
@@ -79,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\appsettings.json",
               "RelativeDocumentMoniker": "ColegioApi2\\appsettings.json",
@@ -91,15 +90,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Models\\Alumno.cs",
               "RelativeDocumentMoniker": "ColegioApi2\\Models\\Alumno.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Acceso_a_Datos_Estudiar\\ColegioApi2\\ColegioApi2\\Models\\Alumno.cs",
               "RelativeToolTip": "ColegioApi2\\Models\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:25:02.681Z"
+              "WhenOpened": "2025-12-05T07:25:02.681Z",
+              "EditorCaption": ""
             }
           ]
         }

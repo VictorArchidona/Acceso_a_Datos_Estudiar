@@ -14,7 +14,27 @@
 @if (!string.IsNullOrEmpty(Model.Respuesta))
 {
     <div>
-        <h3>Respuesta:</h3>
-        <p>@Model.Respuesta</p>
+        <h3>Respuesta: </h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    @foreach(var col in Model.Tabla.Columns)
+                    {
+                        <th>@col</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var fila in Model.Tabla.Rows)
+                {
+                    <tr>
+                        @foreach(var celda in Model.Tabla.Columns)
+                        {
+                            <td>@celda</td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
     </div>
 }
